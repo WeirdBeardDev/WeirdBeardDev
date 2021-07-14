@@ -13,7 +13,10 @@ I write code and play games so I decided to combine those activities into one.  
 
 ## 📈 GitHub Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=weirdbearddev&count_private=true&theme=tokyonight&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=weirdbearddev&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirdbearddev&theme=tokyonight)
+
 
 ## 🛠️ Tools
 
