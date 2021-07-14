@@ -9,6 +9,7 @@ I write code and play games so I decided to combine those activities into one.  
 - 📌 Live in Virginia Beach, VA
 - 💻 [WeirdBeard Blog](https://weirdbearddev.com)
 - <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
+- <img src="https://img.icons8.com/windows/16/000000/itch-io.png"/> [WeirdBeardDev](https://weirdbearddev.itch.io/)
 
 ## 📈 GitHub Stats
 
@@ -24,6 +25,10 @@ I write code and play games so I decided to combine those activities into one.  
                 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
             </td>
             <td width="100px" align="center">
+                <span>.NET</span><br/><br/>
+                <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
+            </td>
+            <td width="100px" align="center">
                 <span>Unity</span><br/><br/>
                 <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
             </td>
@@ -35,18 +40,13 @@ I write code and play games so I decided to combine those activities into one.  
     </tbody>
 </table>
 
+## 🚧 Projects
 
-<!--
-**WeirdBeardDev/WeirdBeardDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- List coming soon
 
-Here are some ideas to get you started:
+## 📚 Sources 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
+- <a href="https://svgporn.com/">Most icons provided by SVG Porn</a>
+- <a href="https://icons8.com/icon/zfuVDK4SdKFq/itch-io">Itch Io icon by Icons8</a>
+
