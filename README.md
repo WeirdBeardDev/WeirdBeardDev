@@ -9,7 +9,7 @@ I write code and play games so I decided to combine those activities into one.  
 - 📌 Live in Virginia Beach, VA
 - 💻 [WeirdBeard Blog](https://weirdbearddev.com)
 - <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
-- <img src="https://img.icons8.com/windows/16/000000/itch-io.png"/> [WeirdBeardDev](https://weirdbearddev.itch.io/)
+- <img height="16px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Itch.io_logo.svg"/> [WeirdBeardDev](https://weirdbearddev.itch.io/) on itch
 
 ## 📈 GitHub Stats
 
@@ -50,3 +50,21 @@ I write code and play games so I decided to combine those activities into one.  
 - <a href="https://svgporn.com/">Most icons provided by SVG Porn</a>
 - <a href="https://icons8.com/icon/zfuVDK4SdKFq/itch-io">Itch Io icon by Icons8</a>
 
+
+<!--
+NOTE: I can highlight specific repos using the example set below, from https://github.com/webbertakken/webbertakken/blob/main/README.md.
+
+
+### GameCI
+
+Together with [GabLeRoux](https://github.com/GabLeRoux) I have layed the foundations for GameCI.
+
+GameCI is an open-source community that offers an easy-to-use solution for developers to build, test and deploy their Unity projects.
+
+[![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/game-ci/unity-actions)
+[![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/game-ci/unity-builder)
+[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=docker&theme=radical&show_icons=true)](https://github.com/game-ci/docker)
+[![Documentation](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=documentation&theme=radical&show_icons=true)](https://github.com/game-ci/documentation)
+
+Feel free to join the GameCI community on [discord](http://game.ci/discord)!
+-->
