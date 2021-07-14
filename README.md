@@ -8,10 +8,32 @@ I write code and play games so I decided to combine those activities into one.  
 - 🌎 From United States
 - 📌 Live in Virginia Beach, VA
 - 💻 [WeirdBeard Blog](https://weirdbearddev.com)
+- <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
 
 ## 📈 GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=weirdbearddev&count_private=true&theme=tokyonight&show_icons=true)
+
+## 🛠️ Tools
+
+<table>
+    <tbody>
+        <tr valign="top">
+            <td width="100px" align="center">
+                <span>Git</span><br /><br />
+                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+            </td>
+            <td width="100px" align="center">
+                <span>Unity</span><br/><br/>
+                <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
+            </td>
+            <td width="100px" align="center">
+                <span>VS Code</span><br/><br/>
+                <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!--
