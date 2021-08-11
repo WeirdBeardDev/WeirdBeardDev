@@ -6,7 +6,7 @@ I write code and play games so I decided to combine those activities into one.  
 ![WeirdBeardDev](https://dl.dropbox.com/s/5cuwwjrazz0vtw2/WeirdBeardDev-Purple2%20%28128%29.png?dl=0)
 
 - 🌎 From United States
-- 📌 Live in Virginia Beach, VA
+- 📌 Lives in Virginia Beach, VA
 - 💻 [WeirdBeard Blog](https://weirdbearddev.com)
 - <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
 - <img height="16px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Itch.io_logo.svg"/> [WeirdBeardDev](https://weirdbearddev.itch.io/) on itch
@@ -47,7 +47,7 @@ I write code and play games so I decided to combine those activities into one.  
 
 - List coming soon
 
-## 📚 Sources 
+## 📚 Sources
 
 - <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
 - <a href="https://svgporn.com/">Most icons provided by SVG Porn</a>
