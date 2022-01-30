@@ -25,7 +25,7 @@ I write code and play games so I decided to combine those activities into one.  
         <tr valign="top">
             <td width="100px" align="center">
                 <span>Git</span><br /><br />
-                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+                <span style="bakcground-color: white;"><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></span>
             </td>
             <td width="100px" align="center">
                 <span>.NET</span><br/><br/>
