@@ -8,8 +8,8 @@ I write code and play games so I decided to combine those activities into one.  
 - 🌎 From United States
 - 📌 Lives in Virginia Beach, VA
 - 💻 [WeirdBeard Blog](https://weirdbearddev.com)
-- <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
-- <img style="background-color: white;" height="16px" src="https://dl.dropbox.com/s/0j4lyknf0gmjc8s/app-icon.png?dl=0"/> [WeirdBeardDev](https://weirdbearddev.itch.io/) on itch
+- <img height="32px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
+- <img style="background-color: white;" height="32px" src="https://dl.dropbox.com/s/0j4lyknf0gmjc8s/app-icon.png?dl=0"/> [WeirdBeardDev](https://weirdbearddev.itch.io/) on itch
 
 ## 📈 GitHub Stats
 
