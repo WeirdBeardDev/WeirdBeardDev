@@ -37,7 +37,7 @@ I write code and play games so I decided to combine those activities into one.  
             </td>
             <td width="100px" align="center">
                 <span>VS Code</span><br/><br/>
-                <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+                <img bgcolor="white;" height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
             </td>
         </tr>
     </tbody>
