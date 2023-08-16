@@ -45,7 +45,7 @@ I write code and play games so I decided to combine those activities into one.  
 
 ## 🚧 Projects
 
-- List coming soon
+- List coming soon 
 
 ## 📚 Sources
 
