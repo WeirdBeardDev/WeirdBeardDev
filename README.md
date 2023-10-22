@@ -1,15 +1,19 @@
 # 👋 WeirdBeardDev (aka Aj)
 
 ## 🧍‍♂️ About Me
-I write code and play games so I decided to combine those activities into one.  Now in addition to designing and building web sites using C#, I also design and build games using Unity.
+I like writing code, playing games, and traveling, so I do my best to combine all those together. Game dev + Travel = Worlds Of Fun.
+
+I code in a variety of languages, mostly C#, but also PHP, JavaScript, and a long-time ago C++/C. I've dabbled in making games using Unity and more recently learning Godot.
+
+I write a [blog](https://weirdbearddev.com) about my adventures in game dev and traveling.
 
 ![WeirdBeardDev](https://dl.dropbox.com/s/5cuwwjrazz0vtw2/WeirdBeardDev-Purple2%20%28128%29.png?dl=0)
 
 - 🌎 From United States
 - 📌 Lives in Virginia Beach, VA
-- 💻 [WeirdBeard Blog](https://weirdbearddev.com)
-- <img height="32px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
-- <img style="background-color: white;" height="32px" src="https://dl.dropbox.com/s/0j4lyknf0gmjc8s/app-icon.png?dl=0"/> [WeirdBeardDev](https://weirdbearddev.itch.io/) on itch
+- 💻 [WeirdBeard's Blog](https://weirdbearddev.com)
+- <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
+- <img style="background-color: white;" height="16px" src="https://dl.dropbox.com/s/0j4lyknf0gmjc8s/app-icon.png?dl=0"/> [WeirdBeardDev](https://weirdbearddev.itch.io/) on itch
 
 ## 📈 GitHub Stats
 
@@ -38,6 +42,10 @@ I write code and play games so I decided to combine those activities into one.  
             <td width="100px" align="center">
                 <span>VS Code</span><br/><br/>
                 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            </td>
+            <td width="100px" align="center">
+                <span>Godot</span><br/><br/>
+                <img height="64px" src="https://cdn.svgporn.com/logos/godot-icon.svg">
             </td>
         </tr>
     </tbody>
