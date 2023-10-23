@@ -11,9 +11,10 @@ I write a [blog](https://weirdbearddev.com) about my adventures in game dev and 
 
 - 🌎 From United States
 - 📌 Lives in Virginia Beach, VA
-- 💻 [WeirdBeard's Blog](https://weirdbearddev.com)
-- <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> [@WeirdBeardDev](https://twitter.com/weirdbearddev)
-- <img style="background-color: white;" height="16px" src="https://dl.dropbox.com/s/0j4lyknf0gmjc8s/app-icon.png?dl=0"/> [WeirdBeardDev](https://weirdbearddev.itch.io/) on itch
+- 💻 I write about traveling and coding at [WeirdBeard's Blog](https://weirdbearddev.com)
+- <img height="16px" src="https://cdn.svgporn.com/logos/github-icon.svg"> I keep my code on [GitHub](https://github.com/WeirdBeardDev)
+- <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> Sometimes I tweet (or X) things at [@WeirdBeardDev](https://twitter.com/weirdbearddev)
+- <img height="16px" src="https://dl.dropbox.com/s/0j4lyknf0gmjc8s/app-icon.png?dl=0"/> Check out my itch.io profile at [WeirdBeardDev](https://weirdbearddev.itch.io/)
 
 ## 📈 GitHub Stats
 
