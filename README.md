@@ -3,7 +3,7 @@
 ## 🧍‍♂️ About Me
 I like writing code, playing games, and traveling, so I do my best to combine all those together. Game dev + Travel = Worlds Of Fun.
 
-I code in a variety of languages, mostly C#, but also PHP, JavaScript, and a long-time ago C++/C. I've dabbled in making games using Unity and more recently learning Godot.
+I code in a variety of languages, mostly C#, but also PHP, JavaScript, and a long time ago C++/C. I've dabbled in making games using Unity and more recently learning Godot.
 
 I write a [blog](https://weirdbearddev.com) about my adventures in game dev and traveling.
 
