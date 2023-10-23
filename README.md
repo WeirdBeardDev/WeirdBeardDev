@@ -5,7 +5,7 @@ I like writing code, playing games, and traveling, so I do my best to combine al
 
 I code in a variety of languages, mostly C#, but also PHP, JavaScript, and a long time ago C++/C. I've dabbled in making games using Unity and more recently learning Godot.
 
-I write a [blog](https://weirdbearddev.com) about my adventures in game dev and traveling.
+I [blog](https://weirdbearddev.com) about my adventures in game dev and traveling.
 
 ![WeirdBeardDev](https://dl.dropbox.com/s/5cuwwjrazz0vtw2/WeirdBeardDev-Purple2%20%28128%29.png?dl=0)
 
