@@ -10,7 +10,7 @@ I [blog](https://weirdbearddev.com) about my adventures in game dev and travelin
 ![WeirdBeardDev](https://dl.dropbox.com/s/5cuwwjrazz0vtw2/WeirdBeardDev-Purple2%20%28128%29.png?dl=0)
 
 - 🌎 From United States
-- 📌 Lives in Virginia Beach, VA
+- 📌 Lives in Virginia
 - 💻 I write about traveling and coding at [WeirdBeard's Blog](https://weirdbearddev.com)
 - <img height="16px" src="https://cdn.svgporn.com/logos/github-icon.svg"> I keep my code on [GitHub](https://github.com/WeirdBeardDev)
 - <img height="16px" src="https://cdn.svgporn.com/logos/twitter.svg"> Sometimes I tweet (or X) things at [@WeirdBeardDev](https://twitter.com/weirdbearddev)
